@@ -1,4 +1,4 @@
-# criminal_ner_model
+# Criminal NER Model
 This chapter describes how to develop an entity name recognition system in the criminal domain.
 In this process, a new training data set was invented, and an NER experiment using pretrained language models was conducted.
 
