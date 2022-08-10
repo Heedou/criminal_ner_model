@@ -13,7 +13,7 @@ Therefore, crime-related information that can be extracted from Korean crime fac
 ## Data Collection
 Criminal facts texts were collected from criminal sentences. By using sentence-split python library, crime facts paragraphs separated into sentences.
 
----example---
+---example---\n
   The suspect slept at the victim's house at 46, Yeonchang-ro 163beon-fil, Icheon-si, Gyeonggi-do around the evening of May 03, 2014.
   Two pieces, a hand mirror worth $10.00, a necklace worth $180.00, and one earring worth $50.00 were stolen.
   As a result, the suspect stole a total market value of $330.00 from the victim.
