@@ -29,7 +29,11 @@ More information about the tagging tool can be found at the link below.
 https://github.com/Heedou/nlp_tagging_tool
 
 First, the rule-base approach was used initially.
+
 Second, it was corrected by criminal analysts 
+
+A total of 6000 training data sets were created.
+
 The tagging result is as follows.
 
   [result]
