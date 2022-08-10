@@ -32,7 +32,7 @@ The tagging result is as follows.
 
   [result]
 
-  **The suspect <Yoo-Jeong Moon : PS_NAME_ACCUSED> and the vitim <Lee-Hyun : PS_NAME_VICTIM> are <friends : CV_RELATION>.**
+  **The suspect < Yoo-Jeong Moon : PS_NAME_ACCUSED > and the vitim < Lee-Hyun : PS_NAME_VICTIM > are < friends : CV_RELATION >.**
   
 
 ![image](https://user-images.githubusercontent.com/49702343/183605603-2f2d0121-0837-4ec9-a4af-ff5bd9dc466d.png)
