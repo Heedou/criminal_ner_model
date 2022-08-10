@@ -26,6 +26,8 @@ Criminal facts texts were collected from criminal sentences. By using sentence-s
 In this process, a NLP Tagging Tool was made using python-pyqt5 library.
 More information about the tagging tool can be found at the link below.
 
+https://github.com/Heedou/nlp_tagging_tool
+
 First, the rule-base approach was used initially.
 Second, it was corrected by criminal analysts 
 The tagging result is as follows.
